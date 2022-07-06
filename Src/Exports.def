@@ -1,0 +1,4 @@
+EXPORTS
+	TriggerRegisterKeyEvent
+	TriggerRegisterMouseWheelEvent
+	GetWheelDelta
